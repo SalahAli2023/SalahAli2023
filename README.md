@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi, I'm Salah Ali
 
-<!--
-**SalahAli2023/SalahAli2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer | PHP • HTML • CSS • JS  
+🌱 Currently working on: Social Case Management System  
+🎯 Interested in UI/UX and real-world problem solving  
+📬 Contact me: salah.ali@example.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Version Control: Git & GitHub
+
+---
+
+### 🔨 Current Projects
+- 👤 [Social Case Management System](#)  
+- 📝 UI/UX Prototypes  
+- 💡 JavaScript Mini Projects
+
+---
+
+### 📈 GitHub Stats
+
+![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalahAli2023&show_icons=true&theme=radical)
