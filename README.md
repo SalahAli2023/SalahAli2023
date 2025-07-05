@@ -3,7 +3,7 @@
 💻 Aspiring Web Developer | PHP • HTML • CSS • JS  
 🌱 Currently working on: Social Case Management System  
 🎯 Interested in UI/UX and real-world problem solving  
-📬 Contact me: salah.ali@example.com  
+📬 Contact me: salahsoft2024@gmail.com  
 
 ---
 
