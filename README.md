@@ -1,20 +1,20 @@
 ### 👋 Hi, I'm Salah Ali
 
-💻 Aspiring Web Developer | PHP • HTML • CSS • JS  
-🌱 Currently working on: Social Case Management System  
-🎯 Interested in UI/UX and real-world problem solving  
-📬 Contact me: salahsoft2024@gmail.com  
+Aspiring Web Developer | PHP • HTML • CSS • JS  
+Currently working on: Social Case Management System  
+Interested in UI/UX and real-world problem solving  
+Contact me: salahsoft2024@gmail.com  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Version Control: Git & GitHub
 
 ---
 
-### 🔨 Current Projects
+###  Current Projects
 - 👤 [Social Case Management System](https://github.com/SalahAli2023/Social-Case-Management-System)  
 - 📝 UI/UX Prototypes  
 - 💡 JavaScript Mini Projects
