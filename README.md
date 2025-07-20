@@ -13,7 +13,6 @@ Contact me: salahsoft2024@gmail.com
 ---
 
 ###  Current Projects
-- 👤 [Social Case Management System](https://github.com/SalahAli2023/Social-Case-Management-System)  
 - 📝 UI/UX Prototypes  
 - 💡 JavaScript Mini Projects
 
